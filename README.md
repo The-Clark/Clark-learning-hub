@@ -1,2 +1,4 @@
 # Clark-learning-hub
-# Welcome to my learning hub and i hope you gain a whole lot from this hub.
+# Welcome to HNG learning hub.
+# i am excited about the learning journey ahead.
+# hopefully i gain some industry relevant skills.
